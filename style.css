@@ -83,8 +83,8 @@ body {
 
 .layout .box {
   position: relative;
-  width: calc(400px - 30px);
-  height: calc(300px - 30px);
+  width: 370px;
+  height: 270px;
   background: #000;
   float: left;
   margin: 15px;
@@ -366,7 +366,7 @@ font-weight: 200;
   background-color: palevioletred;
   padding: 10px;
   border-radius:25px;
-  width: cover;
+ 
 }
 .page div:last-child h1{
   color: white;
