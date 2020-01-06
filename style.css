@@ -129,7 +129,7 @@ body {
 .layout .box .content {
   position: absolute;
   top: 100%;
-  height: calc (100% - 100px);
+  height: 100%;
   text-align: center;
   padding: 20px;
   box-sizing: border-box;
